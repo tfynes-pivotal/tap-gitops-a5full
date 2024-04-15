@@ -6,3 +6,6 @@ vault-setup/vault.out
 .DS_Store
 accelerator-assets/.DS_Store
 .DS_Store
+accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.crt
+accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.csr
+accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.key
