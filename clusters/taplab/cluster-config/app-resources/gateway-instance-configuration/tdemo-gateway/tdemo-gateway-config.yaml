@@ -26,8 +26,8 @@ spec:
     cors:
       allowedOrigins:
       - https://api-portal.a5.fynesy.com
-      allowedMethods:
-      - GET
+      #allowedMethods:
+      #- GET
       allowedHeaders:
       - '*'
   serviceAccount:

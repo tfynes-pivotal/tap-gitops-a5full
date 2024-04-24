@@ -9,3 +9,6 @@ accelerator-assets/.DS_Store
 accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.crt
 accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.csr
 accelerator-assets/non-sensitive-config/tas-adapter/tas-admin.key
+tas-admin.crt
+tas-admin.csr
+tas-admin.key
