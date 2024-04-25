@@ -2,7 +2,7 @@ apiVersion: cert-manager.io/v1
 kind: Certificate
 metadata:
   name: gateway-operator-cert
-  namespace: default
+  namespace: spring-cloud-gateway
 spec:
   dnsNames:
   - scg.a5.fynesy.com
